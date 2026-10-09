@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "gateway-core",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
